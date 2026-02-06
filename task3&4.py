@@ -9,7 +9,7 @@ else:
 # Task 2 For loop using number addition
 
 total = 0
-for i in range(1,50):
+for i in range(1,51):
     total = total+i
 print(f"Addition is 1 to 50 : {total}")
 
